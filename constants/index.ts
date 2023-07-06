@@ -72,27 +72,27 @@ export const carburants = [
 
 export const footerLinks = [
   {
-    title: "About",
+    title: "À propos", // Titre du groupe de liens
     links: [
-      { title: "How it works", url: "/" },
-      { title: "Featured", url: "/" },
-      { title: "Partnership", url: "/" },
-      { title: "Bussiness Relation", url: "/" },
+      { title: "Comment ça fonctionne", url: "/" }, // Lien avec son titre et son URL
+      { title: "En vedette", url: "/" },
+      { title: "Partenariat", url: "/" },
+      { title: "Relation commerciale", url: "/" },
     ],
   },
   {
-    title: "Company",
+    title: "Entreprise", // Titre du groupe de liens
     links: [
-      { title: "Events", url: "/" },
+      { title: "Événements", url: "/" }, // Lien avec son titre et son URL
       { title: "Blog", url: "/" },
       { title: "Podcast", url: "/" },
-      { title: "Invite a friend", url: "/" },
+      { title: "Inviter un ami", url: "/" },
     ],
   },
   {
-    title: "Socials",
+    title: "Réseaux sociaux", // Titre du groupe de liens
     links: [
-      { title: "Discord", url: "/" },
+      { title: "Discord", url: "/" }, // Lien avec son titre et son URL
       { title: "Instagram", url: "/" },
       { title: "Twitter", url: "/" },
       { title: "Facebook", url: "/" },
